@@ -4,18 +4,18 @@
       <img src="/home-main-banner-tepung-shihlin.png" alt="Selamat Datang di TepungShihlin.com!" />
     </section>
 
-    <section class="main__uvp-list">
+    <section class="main__uvp-list clearfix">
       <div class="main__uvp-item">
-        <img src="/tepung-shihilin-usp-1.svg" alt="Sejak 2015" />
+        <img src="/tepung-shihlin-usp-1.png" alt="Sejak 2015" />
       </div>
       <div class="main__uvp-item">
-        <img src="/tepung-shihilin-usp-2.svg" alt="Resep asli Taiwan diproduksi oleh SDM lokal berpengalaman" />
+        <img src="/tepung-shihlin-usp-2.png" alt="Resep asli Taiwan diproduksi oleh SDM lokal berpengalaman" />
       </div>
       <div class="main__uvp-item">
-        <img src="/tepung-shihilin-usp-3.svg" alt="Izin Edar PIRT" />
+        <img src="/tepung-shihlin-usp-3.png" alt="Izin Edar P-IRT" />
       </div>
       <div class="main__uvp-item">
-        <img src="/tepung-shihilin-usp-4.svg" alt="10.000 ++ paket terjual" />
+        <img src="/tepung-shihlin-usp-4.png" alt="10.000 ++ paket terjual" />
       </div>
     </section>
 
@@ -41,7 +41,7 @@
       </h1>
     </section>
 
-    <section class="main__shop-list">
+    <section class="main__shop-list clearfix">
       <div class="main__shop-item">
         <a href="https://www.tokopedia.com/tokohokiku">
           <img src="/tepung-shihlin-toped.png" alt="Belanja di Tokopedia!" />
@@ -96,6 +96,28 @@ export default Vue.extend({
 
     @media (min-width: 768px) {
       margin: 0 0 32px;
+    }
+  }
+}
+
+.main__uvp-list {
+  margin: 32px -16px 0;
+
+  .main__uvp-item {
+    display: block;
+    width: 50%;
+    float: left;
+    padding: 0 32px;
+
+    @media (min-width: 768px) {
+      width: 25%;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+      border-radius: 50%;
+      background-color: #EEE;
     }
   }
 }
