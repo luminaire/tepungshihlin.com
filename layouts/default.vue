@@ -188,7 +188,7 @@ section {
 .main__title {
   h1 {
     margin: 32px 0 16px;
-    font-size: 24px;
+    font-size: 36px;
   }
 }
 
@@ -206,6 +206,14 @@ section {
     > li {
       padding-left: 8px;
       margin-bottom: 8px;
+    }
+  }
+
+  a {
+    font-weight: bold;
+
+    &:hover {
+      text-decoration: underline;
     }
   }
 }
