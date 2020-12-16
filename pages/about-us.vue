@@ -42,6 +42,12 @@
 import Vue from 'vue'
 
 export default Vue.extend({
-  layout: 'default'
+  layout: 'default',
+  head: {
+    title: 'About Us | TepungShihlin.com',
+    meta: [
+      { hid: 'description', name: 'description', content: 'TepungShihlin.com adalah website resmi dari produk tepung crispy taiwan blacklabel.' },
+    ],
+  },
 })
 </script>
