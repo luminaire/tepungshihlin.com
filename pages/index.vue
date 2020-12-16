@@ -114,6 +114,7 @@ export default Vue.extend({
     width: 50%;
     float: left;
     padding: 0 32px;
+    margin-bottom: 32px;
 
     @media (min-width: 768px) {
       width: 25%;
