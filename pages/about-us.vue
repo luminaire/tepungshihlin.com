@@ -17,7 +17,7 @@
       <p>Pertama dimulai pada tahun 2015 di Tangerang, berbekal dgn resep asli dari Taiwan dan dikelola oleh SDM lokal yang berpengalaman di bidang nya masing-masing.</p>
       <p>Pada awal mula nya seluruh kegiatan produksi masih dilakukan secara manual, dan pada bulan pertama tepung crispy taiwan blacklabel hanya membukukan penjualan sebanyak 5 pack</p>
       <p>Seiring berjalan waktu, kini tepung crispy taiwan blacklabel telah menjadi pemasok ke beberapa brand retail lokal untuk produk Ayam crispy ala Taiwan, blacklabel juga telah dipercaya juga oleh ratusan UMKM sebagai supplier untuk usaha mereka, dan kami juga memiliki jaringan mitra Reseller.</p>
-      <p>Info lebih lanjut menjadi Reseller kami disini.</p>
+      <p>Info lebih lanjut menjadi Reseller kami <NuxtLink to="/reseller">disini</NuxtLink>.</p>
       <p>Blacklabel senantiasa menerapkan SOP Kerja dan sistem semi - otomatis di dalam jalur produksi kami sehingga produksi menjadi lebih efisien dengan tetap menjaga ke higienisan dan standart tinggi kualitas produk hingga sampai ke tangan anda, blacklabel memiliki 6 nilai utama:</p>
       <ol>
         <li>Resep Asli Taiwan, menjaga cita rasa paling otentik</li>

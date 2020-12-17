@@ -19,7 +19,7 @@
     </section>
 
     <section class="main__contact-us">
-      <a href="tiny.cc/oivkgz">
+      <a href="https://tiny.cc/oivkgz">
         <img src="/tepung-shihlin-WA.svg" alt="Hubungi kami via WhatsApp!" />
       </a>
     </section>
