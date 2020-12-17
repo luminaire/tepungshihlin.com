@@ -31,7 +31,7 @@
       </p>
       <p>
         <span>Pertama dimulai pada tahun 2015 di Tangerang, berbekal dgn resep asli dari Taiwan dan dikelola oleh SDM lokal yang berpengalaman di bidang nya masing-masing...</span>
-        <NuxtLink to="/reseller">read more</NuxtLink>
+        <NuxtLink to="/about-us">read more</NuxtLink>
       </p>
     </section>
 
